@@ -2,7 +2,7 @@
 
 # AI Tutor Chat Project
 
-This repository hosts a full-stack project combining a **React frontend** and potentially a **Flask backend** to create an AI-powered tutor chatbot. The chatbot interacts with users in real-time and provides intelligent answers.
+This repository hosts a full-stack project combining a **React frontend** and  a **Flask backend** to create an AI-powered tutor chatbot. The chatbot interacts with users in real-time and provides intelligent answers related to Cyber Security.
 
 ## Getting Started
 
