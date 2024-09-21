@@ -6,19 +6,15 @@ This repository hosts a full-stack project combining a React frontend and potent
 **Getting Started**
 
 **Backend Setup (Flask)**
-
 cd backend
-
 python app.py
 
 Flask server will run on http://localhost:5000
 
+
 **Frontend Setup (React)**
-
 cd src
-
 npm install
-
 npm start
 
 The React app will be available at http://localhost:3000
