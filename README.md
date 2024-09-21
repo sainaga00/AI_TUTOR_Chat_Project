@@ -1,25 +1,59 @@
-**AI Tutor Chat Project**
+Here is the improved and well-formatted version of your content:
 
-This repository hosts a full-stack project combining a React frontend and potentially a Flask backend to create an AI-powered tutor chatbot. The chatbot can interact with users in real-time and provide intelligent answers.
+---
 
+# AI Tutor Chat Project
 
-**Getting Started**
+This repository hosts a full-stack project combining a **React frontend** and potentially a **Flask backend** to create an AI-powered tutor chatbot. The chatbot interacts with users in real-time and provides intelligent answers.
 
-**Backend Setup (Flask)**
+## Getting Started
 
-cd backend
+### Backend Setup (Flask)
 
-python app.py
+1. **Navigate to the backend directory**:
 
-Flask server will run on http://localhost:5000
+    ```bash
+    cd backend
+    ```
 
+2. **Run the Flask application**:
 
-**Frontend Setup (React)**
+    ```bash
+    python app.py
+    ```
 
-cd src
+3. **Flask server will run on**:
 
-npm install
+    ```
+    http://localhost:5000
+    ```
 
-npm start
+### Frontend Setup (React)
 
-The React app will be available at http://localhost:3000
+1. **Navigate to the `src` directory**:
+
+    ```bash
+    cd src
+    ```
+
+2. **Install dependencies**:
+
+    ```bash
+    npm install
+    ```
+
+3. **Start the React application**:
+
+    ```bash
+    npm start
+    ```
+
+4. **The React app will be available at**:
+
+    ```
+    http://localhost:3000
+    ```
+
+---
+
+This version uses clear headings and code blocks to format the instructions. Let me know if you need further adjustments!
