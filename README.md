@@ -14,6 +14,8 @@ This repository hosts a full-stack project combining a **React frontend** and  a
     cd backend
     ```
 
+**NOTE : Export Required Keys**
+
 2. **Run the Flask application**:
 
     ```bash
