@@ -10,7 +10,7 @@ function App() {
       if (event.target.value === "13221") {
         setVerifiedID(true);
       } else {
-        alert("Wrong Passkey!!!");
+        alert("Wrong Passkey!!!"); 
         setVerifiedID(false);
       }
     }
