@@ -1,6 +1,4 @@
-Here is the improved and well-formatted version of your content:
 
----
 
 # AI Tutor Chat Project
 
@@ -54,6 +52,3 @@ This repository hosts a full-stack project combining a **React frontend** and po
     http://localhost:3000
     ```
 
----
-
-This version uses clear headings and code blocks to format the instructions. Let me know if you need further adjustments!
